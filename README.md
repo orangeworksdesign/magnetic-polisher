@@ -1,4 +1,4 @@
-# magnetic-polisher
+# Magnetic Polisher
 Arduino code for a motor-driven magnetic polisher. 
 
 ## Libraries needed:
